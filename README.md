@@ -17,7 +17,13 @@ This project includes the following additions to the tutorial:
 
 ### PCB Board
 
-![Final PCB Board](images/pcb_3d.png)
+Top View:
+
+![Final PCB Board, Top View](images/pcb_3d.png)
+
+Bottom View:
+
+![Final PCB Board, Bottom View](images/pcb_3d_bottom.png)
 
 ### PCB Routing
 
