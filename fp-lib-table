@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "stm32wb_base")(type "KiCad")(uri "${KIPRJMOD}/stm32wb_base.pretty")(options "")(descr ""))
+)
