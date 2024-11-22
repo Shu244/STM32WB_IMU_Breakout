@@ -7,8 +7,8 @@
 	(title_block
 		(title "STM32 Basic Breakout w/ RF")
 		(date "2024-11-05")
-		(rev "V1")
-		(company "Overbearing Bear")
+		(rev "V0")
+		(company "SL")
 	)
 	(lib_symbols
 		(symbol "Battery_Management:BQ24074RGT"
