@@ -8764,22 +8764,22 @@
 	)
 	(global_label "RF"
 		(shape input)
-		(at 242.57 116.84 180)
+		(at 242.57 116.84 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "6b5e85ac-4d31-4b20-881a-a61681b96bd7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 237.2262 116.84 0)
+			(at 247.9138 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
